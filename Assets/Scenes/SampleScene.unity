@@ -408,11 +408,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   chartFile: {fileID: 4900000, guid: d1f5c2895cdafce448d3843f23310f29, type: 3}
   loop: 0
-  music: {fileID: 8300000, guid: b17f53a702fb48344926f06e1f6f7774, type: 3}
+  music: {fileID: 8300000, guid: 57fcdb18be052fc4e800cc72b4390daa, type: 3}
   firstBeatTime: 0.02
   musicVolume: 1
   metronomeWithMusic: 1
-  bpm: 160
+  bpm: 130
   beatsPerMeasure: 3
   blackLineX: -5.8
   measureLength: 11.5
